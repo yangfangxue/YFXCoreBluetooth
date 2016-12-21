@@ -1,2 +1,2 @@
-# Bluetooth
-蓝牙搜索、连接、数据传输
+# YFX_CoreBluetooth
+iOS CoreBluetooth框架的使用 与外设进行数据读写、通讯
